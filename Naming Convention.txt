@@ -1,0 +1,36 @@
+Kleines Project:
+
+Großschreibung:
+ 
+ 
+2D Assets:
+Material					Mat__Holz
+Texture 					Tex_Holz
+Particle System		Prtc_Holz
+Sprite Sheet			Sprt_Sheet
+
+- Diffuse					Diff_Holz
+- Normal					Nrm_Holz
+- Roughness			Rgh_Holz
+- Emissive				Emi_Holz
+- Metallic					Mtc_Holz
+- Variant					Holz_01
+
+Beispiel:					Tex_Diff_Holz_01
+
+3D Assets:
+Static Mesh				StaMsh_Holz
+Animated Mesh 	AnimMsh_Holz
+Rig							Rig_Holz
+
+Beispiel:					Tex_Diff_Holz_01
+
+
+Ordner Struktur:
+
+-Characters:
+Material
+Mesh
+Textures
+Rig
+Animation
